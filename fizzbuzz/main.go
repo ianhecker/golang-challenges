@@ -8,9 +8,10 @@ func main() {
 
 		if i%3 == 0 {
 			fmt.Printf("Fizz")
-		}
-		if i%5 == 0 {
-			fmt.Printf("Buzz")
+
+			if i%5 == 0 {
+				fmt.Printf("Buzz")
+			}
 		} else {
 			fmt.Printf("%d", i)
 		}
