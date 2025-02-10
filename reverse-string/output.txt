@@ -1,0 +1,6 @@
+input:'hello'
+output:'olleh'
+input:'こんにちは'
+output:'はちにんこ'
+input:''
+output:''
