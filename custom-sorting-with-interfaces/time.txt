@@ -1,0 +1,8 @@
+Timer started. Press Ctrl+C to stop.
+
+Timer stopped.
+Elapsed time: 00:22:44 (hh:mm:ss)
+Timer started. Press Ctrl+C to stop.
+
+Timer stopped.
+Elapsed time: 00:02:19 (hh:mm:ss)
