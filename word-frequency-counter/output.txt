@@ -1,0 +1,4 @@
+Hello, world! Hello.
+map[hello:2 world:1]
+Go is great! Go, go, go!
+map[go:4 great:1 is:1]
